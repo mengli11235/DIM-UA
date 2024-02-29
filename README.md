@@ -1,6 +1,6 @@
 # State Representation Learning Using an Unbalanced Atlas
 
-This project contains the code for the paper [State Representation Learning Using an Unbalanced Atlas](openreview.net/forum?id=cWdAYDLmPa), based on the code from the benchmark and techniques introduced in the paper [Unsupervised State Representation Learning in Atari](https://arxiv.org/abs/1906.08226). Please visit https://github.com/mila-iqia/atari-representation-learning for detailed instructions on the benchmark.
+This project contains the code for the paper [State Representation Learning Using an Unbalanced Atlas](https://openreview.net/forum?id=cWdAYDLmPa), based on the code from the benchmark and techniques introduced in the paper [Unsupervised State Representation Learning in Atari](https://arxiv.org/abs/1906.08226). Please visit https://github.com/mila-iqia/atari-representation-learning for detailed instructions on the benchmark.
 
 To run the script:
 
