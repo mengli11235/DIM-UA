@@ -2,15 +2,16 @@
 
 This project contains code for the paper [State Representation Learning Using an Unbalanced Atlas](https://openreview.net/forum?id=cWdAYDLmPa), based on the code from the benchmark and techniques introduced in the paper [Unsupervised State Representation Learning in Atari](https://arxiv.org/abs/1906.08226). Please visit https://github.com/mila-iqia/atari-representation-learning for detailed instructions on the benchmark.
 
-To run the script:
-
-```bash
-python run_probe.py
-```
 To install the corresponding gym version:
 
 ```bash
 pip install gym==0.12.5 -e '.[atari]'
+```
+
+To run the script:
+
+```bash
+python run_probe.py
 ```
 
 An example of running DIM-UA and setting the environment to Video Pinball, 4 heads and 512 units each, seed 2:
