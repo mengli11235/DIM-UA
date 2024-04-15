@@ -7,6 +7,11 @@ To run the script:
 ```bash
 python run_probe.py
 ```
+To install the corresponding gym version:
+
+```bash
+pip install gym==0.12.5 -e '.[atari]'
+```
 
 An example of running DIM-UA and setting the environment to Video Pinball, 4 heads and 512 units each, seed 2:
 
