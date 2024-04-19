@@ -38,4 +38,4 @@ Running '+MMD' described in the paper, and setting the environment to Video Pinb
 python run_probe.py --env-name VideoPinballNoFrameskip-v4 --n-head 4 --feature-size 512 --mmd --seed 2
 ```
 
-A detailed list of parameter setup is in [atariari/methods/utils.py]
+A detailed list of parameter setup is in [atariari/methods/utils.py](atariari/methods/utils.py)
